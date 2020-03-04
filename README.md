@@ -1,8 +1,12 @@
 ## coursera machine learning exercise solutions
 
-### course infomation:
+### course infomation
 
 https://www.coursera.org/learn/machine-learning/
+
+### exercise download
+
+https://github.com/cyh-ustc/coursera_machine_learning_ex/releases/download/0.1/ml-ex_1-8.zip
 
 ### content
 
